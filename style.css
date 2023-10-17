@@ -18,3 +18,20 @@ body{
     border-radius: 10px;
     padding: 30px;
 }
+.container :where(textarea , button){
+    outline: 0;
+    border: 0;
+    width: 100%;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+
+
+
+
+
+
+
