@@ -27,6 +27,9 @@ body{
     font-size: 16px;
     margin: 5px 0;
 }
+.container textarea{
+    border: 1px solid #999;
+}
 
 
 
