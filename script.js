@@ -6,4 +6,5 @@ copyBtn.addEventListener('click' , () => {
     let textValue = textarea.value
 
     navigator.clipboard.writeText(textValue)
+    copyBtn.innerText = 'کپی شد'
 })
