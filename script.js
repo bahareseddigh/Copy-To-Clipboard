@@ -13,4 +13,5 @@ copyBtn.addEventListener('click' , () => {
         copyBtn.innerText = 'کپی کن'
         copyBtn.style.backgroundColor = '#b3e5fc'
     } , 1500)
+    
 })
