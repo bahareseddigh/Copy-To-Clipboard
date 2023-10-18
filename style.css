@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic&family=Poppins:wght@300&display=swap');
+::selection{
+    background-color: #036491;
+}
 *{
     margin: 0;
     padding: 0;
