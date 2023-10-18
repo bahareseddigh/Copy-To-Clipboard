@@ -33,6 +33,7 @@ body{
 .container button{
     background-color: #87d9ff;
     cursor: pointer;
+    transition: all 1s;
 }
 
 
