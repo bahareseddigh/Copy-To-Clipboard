@@ -7,4 +7,5 @@ copyBtn.addEventListener('click' , () => {
 
     navigator.clipboard.writeText(textValue)
     copyBtn.innerText = 'کپی شد'
+    copyBtn.style.backgroundColor = '#03a9f4'
 })
